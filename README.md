@@ -37,13 +37,13 @@ Adobe Flash Player was a multimedia software platform used for creating and disp
 5. Extract the files.
 6. And, voila! You're done!
 
-**Please refer to the versions not-a-table thing below.**
+**Please refer to the versions table thing down below.**
 
 # Which version is which?
-1. "WinAX" or "ActiveX" is for Internet Explorer (Discontinued but is still hidden in your Windows machine.)
-2. "WinPEP" or "PPAPI" is for Google Chrome (Doesn't work anymore due to Google removing Flash of their broswer.)
-3. "WinSA" or "Standalone" is a standalone debugger. You can open .SWF files without a need of a browser/plugin. You can also download a sample .SWF file from the main tree. (Animation from my [YouTube channel](https://www.youtube.com/@kfeh).)
-4. "Win" is something I don't know.
+![{7BEFD8D1-C366-493F-BD27-B268633781AF}](https://github.com/user-attachments/assets/4a2e5bfd-0bd6-4e67-98a7-e50995b015dd)
+
+**NOTE**: You can download a sample animation from the GitHub repo for Flash Player test. Animation sample from my [YouTube channel
+](https://www.youtube.com/@kfeh).
 
 # Fun stuff
 No fun stuff yet.
